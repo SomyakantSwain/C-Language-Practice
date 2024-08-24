@@ -1,0 +1,1 @@
+  static int arr[max][max];
