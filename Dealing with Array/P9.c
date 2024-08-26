@@ -52,5 +52,5 @@ int main()
         printf("%d ", m[i]);
     }
 
-    return 0;
-}
+    return 0 ;
+} 
