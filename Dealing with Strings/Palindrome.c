@@ -15,7 +15,8 @@ int main() {
         str2[x] = str1[i];
         x++;
     }
-    str2[x] = '\0'; // Correctly assign the null terminator
+       str2[x] = '\0'; // Correctly assign the null terminator other word aeta jadi lekhibani code run pare khali bhabuthiba kauthi bhul hela  ;
+
 
     if (strcmp(str1, str2) == 0) {
         printf("String is a palindrome\n");
